@@ -7,4 +7,4 @@ Repositorio prueba
 Ejercicios de git 
 
 
-![imagen](W:\imagen_git_log.png)
+![imagen](W:/imagen_git_log.png)
