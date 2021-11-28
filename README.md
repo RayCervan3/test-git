@@ -7,4 +7,5 @@ Repositorio prueba
 Ejercicios de git 
 
 
-![imagen](W:/imagen_git_log.png)
+![imagen](https://user-images.githubusercontent.com/46507580/143784031-fcd14dfc-ceb6-4b91-baca-325179f17173.png)
+
